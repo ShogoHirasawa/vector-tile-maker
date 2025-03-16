@@ -43,7 +43,7 @@ This repository contains a Google Colab notebook (`.ipynb`) that demonstrates ho
 
 ## Repository Contents
 
-- **`vector_tiles_colab.ipynb`**  
+- **`vectorTileMaker.ipynb`**  
   The main Colab notebook, containing all steps for installing Tippecanoe and generating tiles.  
 - **`README.md`**  
   This file, providing an overview of how to get started and run the notebook.
