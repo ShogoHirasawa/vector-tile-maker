@@ -27,7 +27,6 @@ This repository contains a Google Colab notebook (`.ipynb`) that demonstrates ho
 
 1. **Open the Notebook in Colab**  
    - Click on the “[Open in Colab](https://github.com/ShogoHirasawa/vectot-tile-maker/blob/main/vectorTileMaker.ipynb)” badge (if you have added one), or open the `.ipynb` file directly from this repo on GitHub and select “Open in Colab” (requires the [Colab Chrome extension](https://chrome.google.com/webstore/detail/open-in-colab/)).
-   - Alternatively, go to [colab.research.google.com](https://colab.research.google.com) and provide the URL of this notebook.
 
 2. **Run the Cells in Order**  
    - The first cell installs Tippecanoe by cloning and building the source code.
